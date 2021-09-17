@@ -2,4 +2,9 @@ Hello Git!Hello Git!
 Hello Git!Hello Git!
 Hello Git!Hello Git!
 Hello Git!Hello Git!
+<<<<<<< HEAD
 Hello Git!Hello 王浩然！ 不错哦！
+=======
+Hello Git!Hello Git!
+hahahahahah!
+>>>>>>> dev
